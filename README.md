@@ -3,7 +3,7 @@
 ### How to run it? 
 ```sh
 git clone https://github.com/migace/agh-materials-react-boilerplatte.git
-cd agh-materials-boilerplatte
+cd agh-materials-react-boilerplatte
 npm i
 npm run dev
 ```
